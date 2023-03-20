@@ -2,7 +2,7 @@ let selected;
 let main_nav = $("[data-name=MAIN_NAV_TRIGGER_CONTAINER");
 let main_nav_drop_down = $(".main-nav-dropdown");
 let nav_report = $("[data-menu-dropdown=report]");
-let main_nav_report = $("[data-name=NAV_DROPDOWN]")
+let main_nav_report = $("[data-menu='report']")
 let ele;
 let blanket = $("[data-name=BLANKET]")
 let main_search_bar = $("[data-name=AUTOCOMPLETE_SEARCHBOX]");
